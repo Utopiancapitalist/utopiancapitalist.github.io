@@ -1,5 +1,3 @@
-theme: jekyll-theme-modernist
+remote_theme: "mmistakes/minimal-mistakes"
 github:
   is_project_page: false
-
-remote_theme: daattali/beautiful-jekyll
