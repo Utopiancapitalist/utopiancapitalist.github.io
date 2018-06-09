@@ -4,9 +4,9 @@ title:  "Welcome to Jekyll!"
 date:   2018-06-08 20:08:21 -0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This is a collection of essays on finance, economics, philosophy, and public policy.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I’m passionate about learning how the philosophic and economic decisions made by businesses ultimately affect society, as well as how policy can influence these decisions for good and for ill. It is in search of answers related to these relationships that I began my vocational endeavors. Looking ahead, I want to continue to research and learn, hone my undergraduate thesis written on the morality of the corporation, and research policy surrounding the private equity firm.
 
 Jekyll also offers powerful support for code snippets:
 

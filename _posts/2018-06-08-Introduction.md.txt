@@ -1,8 +1,0 @@
-title: My sample post
-tags: content_types
-keywords: pages, authoring, exclusion, frontmatter
-sidebar: mydoc_sidebar
-permalink: mydoc_pages.html
-summary: "This is some summary frontmatter for my sample post."
-
-Hello world!
