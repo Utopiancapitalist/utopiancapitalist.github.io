@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2018-06-08 20:08:21 -0700
+date:   2018-06-09 20:08:21 -0700
 categories: jekyll update
 ---
 This is a collection of essays on finance, economics, philosophy, and public policy.
