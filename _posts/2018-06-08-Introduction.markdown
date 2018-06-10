@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction"
-date:   2018-06-09 20:08:21 -0700
+date:   2018-06-07 20:08:21 -0700
 categories: About me
 tags: finance, economics, philosophy, public_policy
 ---
@@ -11,7 +11,7 @@ I’m passionate about learning how the philosophic and economic decisions made 
 
 The name of this website is intended to be ironic. Utopian and capitalistic societies are generally not considered to co-exist alongside one another. Thomas More notes this in his 1516 text _utopia_, and Joseph Schumpeter alludes to it in his text _Socialism, Capitalism, and Democracy._  For More, utopia (meaning "There is no such place") is intended to show the ridiculousness of what society might look like without the so-called constraints of capitalism. In Utopia, luxury is unnecessary and monarchs avoid extravagance. Schumpeter believes capitalism to be evil at times, and yet it remains necessary to the development. "Creative destruction" is the term he famously uses to describe how capitalism forces markets to constantly adapt and reinvigorate with new momentum and freshly espoused ideas. Markets today are following this approach, but there has been an increasing emphasis by states to monitor and/or manage wealth.
 
- In the United States, the Securities and Exchange Commission, a regulatory agency, does this by requiring publicly traded firms to release quarterly financial statements alongside an annually audited report. However, publicly traded firms do not account for more than half of the entire (public and private) market value in the United States. The New York Times noted in November 2015 that https://www.nytimes.com/2015/11/05/business/dealbook/public-companies-trying-to-mimic-private-firms.html "the number of companies listed on the US stock exchange has decreased by 35% from 1995", according to data from Weild & Company. Now, part of this trend may be due to the consolidation of the market. However, the macro trend points toward an increasing desire for companies to retreat to privacy. There are recent macroeconomic trends that have aided such an advance.
+ In the United States, the Securities and Exchange Commission, a regulatory agency, does this by requiring publicly traded firms to release quarterly financial statements alongside an annually audited report. However, publicly traded firms do not account for more than half of the entire (public and private) market value in the United States. [The New York Times noted in November 2015 that](https://www.nytimes.com/2015/11/05/business/dealbook/public-companies-trying-to-mimic-private-firms.html) "the number of companies listed on the US stock exchange has decreased by 35% from 1995", according to data from Weild & Company. Now, part of this trend may be due to the consolidation of the market. However, the macro trend points toward an increasing desire for companies to retreat to privacy. There are recent macroeconomic trends that have aided such an advance.
 
  First, it is helpful to consider the interest rate decline in those 20 years between 1995 and 2015. In comparison to previous periods, the interest rate was remarkably low. Consider that between 1975 and 1995, the average interbank lending rate was 7.98%, while between 1995 and 2015 it was 2.60%- a 5.38% or 67% decrease in interest rate.
 
