@@ -2,7 +2,7 @@
 layout: post
 title:  "Investment Banking Interview Questions Part Three"
 date:   2018-06-22 12:08:21 -0700
-categories: ibanking, finance, interviews
+categories: finance
 ---
 
 *Note: This post is a continuation of the investment banking interview question series.
@@ -16,7 +16,7 @@ One of the most known qualities about investment banking is how competitive it i
 _A: Enterprise valuation is calculated as the total value of the company, including assets, liabilities, and equity. To calculate this, one must add equity and debt, less cash and cash equivalents. It can be thought of as the price another company would be willing to pay to purchase the company. An alternative view is to calculate it using the present value of the company's future free cash flows._
 
 Note: Consider the following excerpt from McKinsey's excellent Valuation Guide:
-" Enterprise value is the value of the entire company, which equals the sum of the core operations plus nonoperating assets. Subtracting debt, debt equivalents, and hybrid securities, and making other adjustments, provides an estimate of the value of equity."
+"Enterprise value is the value of the entire company, which equals the sum of the core operations plus nonoperating assets. Subtracting debt, debt equivalents, and hybrid securities, and making other adjustments, provides an estimate of the value of equity."
 
 #### Walk me through how you would forecast performance
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Investment Banking Interview Questions"
 date:   2018-06-09 12:08:21 -0700
-categories: ibanking, finance, interviews
+categories: finance
 ---
 
 One of the most known qualities about investment banking is how competitive it is. Students make efforts to attend elite schools, and [grades are considered even from high-school (A-levels).](https://www.theguardian.com/society/2016/sep/01/top-graduates-missing-out-on-banking-jobs-for-lacking-polish) Given this, the following series on interview questions will work through many of the questions that may be expected amidst a banking interview.

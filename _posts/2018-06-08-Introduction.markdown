@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction"
 date:   2018-06-07 20:08:21 -0700
-categories: About me
+categories: Aboutme
 tags: finance, economics, philosophy, public_policy
 ---
 This is a collection of essays on finance, economics, philosophy, and public policy.
