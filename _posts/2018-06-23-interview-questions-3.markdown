@@ -20,12 +20,12 @@ Note: Consider the following excerpt from McKinsey's excellent Valuation Guide:
 
 #### Walk me through how you would forecast performance
 
-_A: Forecasting performance takes the following steps:
-1. Prepare a three-step financial statement model
-2. Build a revenue forecast model
-3. Forecast the income statement and then the balance sheet
-4. If necessary, forecast the investor funds into the balance sheet
-5. Calculate end results, primarily Return on Investors' Capital and FCF. _
+_A: Forecasting performance takes the following steps:_
+_1. Prepare a three-step financial statement model_
+_2. Build a revenue forecast model_
+_3. Forecast the income statement and then the balance sheet_
+_4. If necessary, forecast the investor funds into the balance sheet_
+_5. Calculate end results, primarily Return on Investors' Capital and FCF._
 
 #### T/F: EBT should be used as a driver for calculating the tax rate.
 
@@ -41,10 +41,10 @@ _A: Cash is subtracted from enterprise value because it is expected to be used t
 
 #### What are the steps involved in a bottom-up revenue forecast?
 
-_A:
-1. Estimate demand from existing customers
-2. Estimate customer turnover
-3. Estimate potential for new customers_
+_A:_
+_1. Estimate demand from existing customers_
+_2. Estimate customer turnover_
+_3. Estimate potential for new customers_
 
 #### What is WACC and How is it calculated?
 
