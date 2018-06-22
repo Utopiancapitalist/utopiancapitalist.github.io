@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Investment Banking Interview Questions Part Two"
+title:  "Investment Banking Interview Questions Part Three"
 date:   2018-06-22 12:08:21 -0700
 categories: ibanking, finance, interviews
 ---
