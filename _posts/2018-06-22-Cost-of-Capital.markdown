@@ -7,17 +7,25 @@ tags: finance
 ---
 ### What is the Cost of Capital?
 
-The question of Cost of Capital []
+The question of Cost of Capital is a common [IBD Interview Question](https://utopiancapitalist.github.io/finance/2018/06/22/interview-questions-3.html) and essential to any financial analyst. A financial model is dependent on many variables, but the key drivers of the terminal value (1) are revenue and invested capital. Invested capital can come in the form of equity or debt, and neither of these sources come without a _cost of capital_. Note that Cost of Capital is often use synonymously with _Weighted Average Cost of Capital_, or _WACC_. 
 
-### What different approaches to Cost of Capital exist?
+This is easy to conceptualize for debt. Say Company X (a $10M EV company) desires to build a capital project for $1 million. Given it only has $100K of cash on hand, it will need to draw debt to construct the project. Given its $10M enterprise value, the bank loans the money at a 10% interest rate to the company. This, multiplied by the outstanding debt balance, is the cost of debt capital.
+
+As for equity, the calculation is more onerous. For a public company, this can be taken as: [Risk-free rate + (Beta * the Equity risk premium)] (2). Recall that Beta refers to how closely the company's stock price correlates to its market peers. Although Beta information can easily be found for public companies on finances sites such as Nasdaq or Yahoo Finance, they can also be derived by use of regression analysis on the company's stock price. The Risk-free rate is often represented by the 10-year U.S. Treasury bond rate for North American companies. Finally, the [equity risk premium is a prediction of how the stock market will outperform risk-free debt instruments.](https://www.investopedia.com/investing/calculating-equity-risk-premium/) This is calculated be (1) estimating the expected return on stocks, (2) estimating the expected return on risk-free bonds, and (3) subtracting the difference to obtain the equity risk premium.
+
+Thus, Company X's overall cost of capital becomes evident when the cost of debt capital is weighted against the cost of equity capital.
+
+### Why is it important to correctly estimate WACC?
+WACC is highly influential in arriving at the terminal valuation of a company. A WACC that is obtusely high will result in an overly optimistic terminal valuation, while a WACC disproportionally low will result in an pessimistic terminal valuation.
 
 ### How is WACC modeled?
 
-The revolver should work in tandem with the cash balance. In essence, a revolver balance should grow if there is a deficit, while cash should grow if there is a surplus (unless there is first a deficit, in which case the revolver should be reduced). The deficit/surplus can be calculated from the cash flow statement.
+There are three calculations to a WACC model.
 
---> The MIN function can be used for this calculation
---> Note that circularity may occur, resulting in an Excel error. To account for this, simply enter the Excel options, go to the formulas tab, and click the "enable iterative calculation" button.
+1. Calculate Cost of Equity by multiplying the Risk Free Rate by (Beta * Equity Risk Premium).
+2. Calculate Cost of Debt by multiplying the Cost of Debt by (1-Tax Rate)
+3. Multiple the Cost of Equity (i.e 8.5%) and Cost of Debt (i.e 3.9%) by their respective % in the Debt to Equity Ratio.
 
-See [Here](https://www.wallstreetprep.com/knowledge/modeling-revolving-credit-line-excel-free-template/) for an excellent template for learning to use the Revolver in practice.
+![Example WACC Calculation](/assets/WACC1.png)
 
-Another helpful website in working through the [modeling of a revolver.](http://www.streetofwalls.com/finance-training-courses/investment-banking-technical-training/three-statement-financial-modeling/)
+(1) Terminal value will be discussed in a future post.
