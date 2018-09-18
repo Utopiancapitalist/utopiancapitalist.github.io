@@ -483,4 +483,6 @@ Increased by $552M, or 152% from $364M to $916M. These expenses primarily relate
 
 Increased $1.0B, or 279% from $372M to $1.4B. This is a direct result of the 2017 Tax Cuts and Jobs Act enacted by the US Federal Government. This tax act reduced the US federal corporate tax rate from 35% to 21%, and also required immediate repatriation of certain foreign subsidiaries whose taxable income was previously deferred. The lower corporate tax rate of 21% will benefit the Company moving forward.  
 
-## More Analysis to Arrive in the next Post
+## Further Analysis to Come
+
+We have only begun to examine Western Digital as a corporation. Our next analysis will investigate the direction of the company through a pro-forma model. We desire to answer the question, "Is the company under- or overvalued?" A pro-forma model will be the vehicle to accomplish this.
