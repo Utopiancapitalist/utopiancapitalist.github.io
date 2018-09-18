@@ -10,12 +10,12 @@ The Utopian Capitalist collects news articles from a variety of finance and poli
 <script type="text/javascript">
 <!--
 rssfeed_url = new Array();
-rssfeed_url[0]="http://www.wsj.com/xml/rss/3_7031.xml"; rssfeed_url[1]="http://www.wsj.com/xml/rss/3_7014.xml"; rssfeed_url[2]="https://ftalphaville.ft.com/rss-feed/"; rssfeed_url[3]="https://www.nytimes.com/services/xml/rss/nyt/Economy.xml"; rssfeed_url[4]="https://www.nytimes.com/services/xml/rss/nyt/Dealbook.xml";
+rssfeed_url[0]="http://feeds.reuters.com/Reuters/PoliticsNews"; rssfeed_url[1]="http://www.wsj.com/xml/rss/3_7014.xml"; rssfeed_url[2]="https://ftalphaville.ft.com/rss-feed/"; rssfeed_url[3]="https://www.nytimes.com/services/xml/rss/nyt/Economy.xml"; rssfeed_url[4]="https://www.nytimes.com/services/xml/rss/nyt/Dealbook.xml"; rssfeed_url[5]="http://feeds.reuters.com/reuters/topNews"; rssfeed_url[6]="https://www.bloomberg.com/tosv2.html?vid=&uuid=7096b040-bb58-11e8-b5ed-f93d9b5c043b&url=L2RlYWxz";
 rssfeed_frame_width="500";
 rssfeed_frame_height="600";
 rssfeed_scroll="off";
 rssfeed_scroll_step="6";
-rssfeed_scroll_bar="on"; 
+rssfeed_scroll_bar="on";
 rssfeed_target="_blank";
 rssfeed_font_size="12";
 rssfeed_font_face="";
