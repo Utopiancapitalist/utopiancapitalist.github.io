@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pro Forma Modeling"
-date:   2018-06-08 20:08:21 -0700
+date:   2018-06-20 20:08:21 -0700
 categories: finance
 ---
 ### What is pro-forma modeling?
@@ -28,5 +28,3 @@ A financial analyst will begin his analysis by examining the historical financia
 3. Leverage Buyout Model --> Used by [buy-side firms](https://www.investopedia.com/terms/b/buyside.asp) to calculate ROI and other measures of an investment's success or failure.
 4. Option Pricing Model --> Used by equity analysts and companies to value stock options.
 5. Merger Model --> Used by [sell-side firms](https://www.investopedia.com/terms/s/sellside.asp) to analyze the combination of two companies.
-
- 

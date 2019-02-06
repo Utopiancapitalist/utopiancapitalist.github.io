@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Revolver"
-date:   2018-06-11 20:08:21 -0700
+date:   2018-07-11 20:08:21 -0700
 categories: finance
 tags: finance, economics, philosophy, public policy
 ---

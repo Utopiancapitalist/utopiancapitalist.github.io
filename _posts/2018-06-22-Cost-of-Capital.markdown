@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cost of Capital"
-date:   2018-06-22 20:08:21 -0700
+date:   2018-07-22 20:08:21 -0700
 categories: finance
 tags: finance
 ---

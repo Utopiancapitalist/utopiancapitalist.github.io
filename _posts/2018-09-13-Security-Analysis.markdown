@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Western Digital Security Analysis Part 1"
+title:  "Security Analysis Part 1 - Western Digital"
 date:   2018-09-12 20:08:21 -0700
 categories: finance
 tags: finance
@@ -463,26 +463,26 @@ Decreased by $1.9B, or 15%. The company continues to pay down their secured and 
     </tr></tbody>
 </table>
 
-1. Revenue
+#### 1. Revenue
 
 Revenue increased $1.5B, or 8%, to $20.6B. This growth per the Company is primarily a result of a favorable flash memory (NAND) market.
 
-2. Gross Profit
+#### 2. Gross Profit
 
 Gross profit increased $1.6B, or 27% to $3.4B. The market was strong for flash memory, and this resulted in the significant increase in gross profit. The company's Q1 guidance is flat with regard to gross profit. This may well indicate the storage marketplace is saturated or nearing saturation.  
 
-3. Operating Income
+#### 3. Operating Income
 
 Increased $1.7B, or 85% from $2.0B to $3.7B. See Gross Profit for explanation.
 
-4. Other expense, Net
+#### 4. Other expense, Net
 
 Increased by $552M, or 152% from $364M to $916M. These expenses primarily relate to losses on exchange of high interest secured debt for lower interest debt. These exchanges will provide significant savings over the course of their term. As such, the losses are well warrented.
 
-5. Income Tax Expense
+#### 5. Income Tax Expense
 
 Increased $1.0B, or 279% from $372M to $1.4B. This is a direct result of the 2017 Tax Cuts and Jobs Act enacted by the US Federal Government. This tax act reduced the US federal corporate tax rate from 35% to 21%, and also required immediate repatriation of certain foreign subsidiaries whose taxable income was previously deferred. The lower corporate tax rate of 21% will benefit the Company moving forward.  
 
-## Further Analysis to Come
+#### Further Analysis to Come
 
 We have only begun to examine Western Digital as a corporation. Our next analysis will investigate the direction of the company through a pro-forma model. We desire to answer the question, "Is the company under- or overvalued?" A pro-forma model will be the vehicle to accomplish this.

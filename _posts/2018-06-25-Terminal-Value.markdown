@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Terminal Value"
-date:   2018-06-25 20:08:21 -0700
+date:   2018-08-25 20:08:21 -0700
 categories: finance
 tags: finance
 ---
