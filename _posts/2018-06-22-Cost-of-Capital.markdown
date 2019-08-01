@@ -27,7 +27,7 @@ There are three calculations to a WACC model.
 3. Multiple the Cost of Equity (i.e 8.5%) and Cost of Debt (i.e 3.9%) by their respective % in the Debt to Equity Ratio.
 
 ![Example WACC Calculation]({{https://utopiancapitalist.github.io/assets/WACC1.PNG}})
-<img src="{{site.baseurl}}/assets/WACC1.PNG" alt="WACC" width="200"/>
-<img src="{{site.baseurl}}/assets/WACC1.PNG" class="img-responsive" alt=""> </div>
+<img src="{{site.url}}/assets/WACC1.PNG" alt="WACC" width="200"/>
+<img src="/assets/WACC1.PNG" class="img-responsive" alt=""> </div>
 
 (1) Terminal value will be discussed in a future post.
