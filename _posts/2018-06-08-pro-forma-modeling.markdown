@@ -12,7 +12,9 @@ Finance professionals use pro-forma modeling to leverage current and historical 
 
 
 
-![Screenshot of a Pro-forma Balance Sheet](/assets/WDBS.png)
+![Screenshot of a Pro-forma Balance Sheet](/assets/WDBS.PNG)
+<img src="/assets/WDBS.PNG" class="img-responsive" alt="Interbank Lending from 1975 to 2015"/>
+
 
   _Pro-Forma balance sheet_
 
