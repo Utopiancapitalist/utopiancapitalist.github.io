@@ -17,7 +17,7 @@ title: Utopian Capitalist
 email: 40076063+Utopiancapitalist@users.noreply.github.com
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of essays on finance, economics, philosophy, and public policy.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://utopiancapitalist.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
