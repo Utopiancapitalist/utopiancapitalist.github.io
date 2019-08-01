@@ -15,7 +15,7 @@ The name of this website is intended to be ironic. Utopian and capitalistic soci
 
  First, it is helpful to consider the interest rate decline in those 20 years between 1995 and 2015. In comparison to previous periods, the interest rate was remarkably low. Consider that between 1975 and 1995, the average interbank lending rate was 7.98%, while between 1995 and 2015 it was 2.60%- a 5.38% or 67% decrease in interest rate.
 
- <div class="embed-container"><iframe src="//fred.stlouisfed.org/graph/graph-landing.php?g=k7XW&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; allowTransparency="true"></iframe></div><script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"></script>
+ <img src="/assets/1975-2015-FED-FUNDS-RATES.png" class="img-responsive" alt="Interbank Lending from 1975 to 2015"/>
 
 What this means is that it has become _historically_ affordable for companies to borrow money, and this has led to a competitive private industry. Private Equity companies, brought to prominence in the 1980s and made famous through movies such as _Barbarians at the Gate_, work by purchasing a large stake (often majority) of a company and then leveraging it with debt, as this grows the enterprise value of the company more efficiently than other models. Future posts will describe why this is the case. In my industry experience, I have regularly worked with or had co-workers who consulted with companies essentially traded from one private equity client to another. By remaining private rather than going public, companies are able to return value to stakeholders by focusing on long-term rather than short-term goals (public pressures often necessitate earnings forecasts, for example).
 
