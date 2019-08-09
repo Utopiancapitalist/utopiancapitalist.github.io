@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "Delta One"
+date:   2019-07-04 20:08:21 -0700
+categories: math
+tags: finance, math
+---
+### Background
+Delta-one is the colloquial term given to what can be understood as call-put parity, although it can arguably be extended to include a variety of derivative products. Consider [Izabella Kaminska's description from Financial Times:](https://ftalphaville.ft.com/2011/04/11/541181/delta-one-the-special-ops-of-equity-trading/)
+
+``` "From a product point of view it’s simple. Delta one equals ETFs, sector swaps, dividend swaps and thematic baskets. It can include warrants and options too. Anything really, providing it involves returning a one-to-one performance to your client." ```
+
+Call-put parity is interesting from both a finance and mathematical perspective. Here, I will share a mathematical proof to demonstrate *why it is* that call-put parity can occur.
+
+### The function we want to prove
+ `$c(x)-p(x)=x-a$`
+
+### The proof
+
+1. Definitions: `$c(x)=\max\{x-a,0\}, p(x)=\max\{a-x,0\}$`
+
+2. Re-write the functions:
+
+`$c(x)=\begin{cases} x-a & \mbox{if }x-a>0,\mbox{ i.e. }x>a,\\ 0 & \mbox{if }x\le a, \end{cases}$`
+
+`$p(x)=\begin{cases} a-x & \mbox{if }a-x>0,\mbox{ i.e. }x<a,\\ 0 & \mbox{if }x\ge a. \end{cases}$`
+
+3. We can solve the equation using two cases.
+
+Case 1: `$x\ge a$`
+
+if `$x>a, c(x)=x-a, p(x)=0$` 
+so  `$c(x)-p(x)=x=c(x)=x-a.$`
+
+Case 2: `$ x<a$`
+
+If `$x<a, c(x)=0, p(x)=a-x$` so `$c(x)-p(x)=-p(x)=x-a.$`
+
+
+### Conclusion
+
+Call-put parity, or delta-one, is an interesting proposition from both a financial and mathematical perspective. Of course, it is in arbitrage that the real money is made (e.g. situations in real life where the one-to-one parity does not exist). 
+
+
+
+
+
+
+
+
+
+ <script src="//yihui.name/js/math-code.js"></script>
+<!-- Just one possible MathJax CDN below. You may use others. -->
+<script async
+  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
