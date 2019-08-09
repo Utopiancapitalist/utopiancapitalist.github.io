@@ -1,7 +1,7 @@
 ---
-layout: home
-title: News Feed
-permalink: /News/
+layout: page
+title: Philosophy and Politics
+permalink: /Philpol/
 ---
 
 The Utopian Capitalist collects news articles from a variety of finance and political sources, including the Financial Times, Wall Street Journal, and the New York Times.
