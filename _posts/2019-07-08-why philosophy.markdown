@@ -2,7 +2,7 @@
 layout: post
 title:  "Philosophy Applied to Finance"
 date:   2019-07-08 20:08:21 -0700
-categories: Aboutme
+categories: philosophy
 tags: finance, economics, philosophy
 ---
 "Why Philosophy?" is one of the most frequent questions I receive when I speak to individuals in finance or economics fields. It is a simple question, I suppose, on one level. But on another level it can be difficult to answer. This post is a collection of the common threads I see between philosophy and finance and economics. In this sense, it is an addition to my previous introduction post. There are three analogies I will make.

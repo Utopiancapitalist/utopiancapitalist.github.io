@@ -2,7 +2,7 @@
 layout: post
 title:  "Macro Analysis on China"
 date:   2019-07-24 20:08:21 -0700
-categories: 
+categories: economics
 tags: finance, economics, philosophy
 ---
 China has been a country on my mind for some period of time now. A driving question I have is *why investors have remained so careful to avoid investing in China?* 

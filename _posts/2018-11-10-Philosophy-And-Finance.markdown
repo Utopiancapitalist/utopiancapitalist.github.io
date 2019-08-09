@@ -2,7 +2,7 @@
 layout: post
 title:  "Philosophy and Finance"
 date:   2018-11-10 20:08:21 -0700
-categories: Aboutme
+categories: philosophy
 tags: finance, economics, philosophy
 ---
 ## 1.	Introduction
