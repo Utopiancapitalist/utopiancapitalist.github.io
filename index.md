@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Main
-permalink: /main/
+title: Posts
+permalink: /posts/
 ---
-hibun
