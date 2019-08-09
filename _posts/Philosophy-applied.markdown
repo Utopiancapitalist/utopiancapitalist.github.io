@@ -32,4 +32,4 @@ Philosophy develops an eye for comparing different ideas in a similar manner to 
 
 ### Concluding Thoughts
 
-Philosophy is just one academic field with similarities to finance. There are likely many others for which one could make similar comparisons. However, I find philosophy particularly compelling as a companion to finance. Critical thinking skills, comfort with ambiguity, and the ability to compare models are three essential aspects that can be utilised within finance. If more financiers studied philosophy it would make the world a more contientous and efficient place.
+Philosophy is just one academic field with similarities to finance. There are likely many others for which one could make similar comparisons. However, I find philosophy particularly compelling as a companion to finance. Critical thinking skills, comfort with ambiguity, and the ability to compare models are three essential aspects that can be utilised within finance. If more financiers studied philosophy it would make Earth a more contientous and efficient place.
