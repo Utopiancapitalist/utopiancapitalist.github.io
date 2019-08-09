@@ -11,7 +11,7 @@ China has been a country on my mind for some period of time now. A driving quest
 
 <img src="/assets/1995-2019-China.png" class="img-responsive" alt="Interbank Lending from 1995 to 2019"/>
 
-*China is graphedin violet, while the US from 1995 onwards is graphed in yellow. US Fed rates prior to 1995 have also been included in green.*
+*China is graphed in violet, while the US from 1995 onwards is graphed in yellow. US Fed rates prior to 1995 have also been included in green.*
 
 I have three initial thoughts about this:
 
