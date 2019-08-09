@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Philosophy Applied to Finance"
-date:   2019-08-07 20:08:21 -0700
+date:   2019-07-08 20:08:21 -0700
 categories: Aboutme
 tags: finance, economics, philosophy
 ---
