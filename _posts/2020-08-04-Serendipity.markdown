@@ -25,7 +25,7 @@ who know who you are in the way a dog and tabby
 know one another - a peculiar friendship
 that softens the hears of those around them.
 
-Serendipity is the solitude of pressing play on an iPod
+Serendipity is the solidarity of pressing play on an iPod
 and discovering a new song that tastes
 of the fragrant emotions you've felt before
 but have not had the foreknowledge to search for.
@@ -36,11 +36,11 @@ And you do not allow this patch of pause
 to take your breath away.
 
 And yet it does
-leaving you tired
-weak at the knees
+leaving you tired,
+weak at the knees,
 a slobbering, slick kiss
 from that dog who,
-for a moment, 
+for a moment,
 tamed the tabby.
 
 
